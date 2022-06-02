@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Login.css";
-import { Button, capitalize } from "@mui/material";
+import { Button } from "@mui/material";
 import { Formik, Form, Field } from "formik";
 import Icon from "./Icon";
 
